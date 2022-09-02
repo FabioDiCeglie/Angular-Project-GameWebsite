@@ -15,9 +15,10 @@ import { HomeComponent } from './components/home/home.component';
 import { Routes } from '@angular/router';
 import { HttpHeadersInterceptor } from './interceptors/http-headers.interceptors';
 import { HttpErrorsInterceptor } from './interceptors/http-errors.interceptors';
+import { DetailsComponent } from './components/details/details.component';
 
 @NgModule({
-  declarations: [AppComponent, SearchBarComponent, HomeComponent],
+  declarations: [AppComponent, SearchBarComponent, HomeComponent, DetailsComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,

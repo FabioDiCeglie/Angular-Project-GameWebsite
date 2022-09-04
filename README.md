@@ -13,8 +13,5 @@ Deployed in Vercel
   <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="8%" alt="Angular logo">
 </p>
 
-### ℹ️ More info
-
-- [LinkedIn](https://www.linkedin.com/in/fabio-di-ceglie/)
 
 
